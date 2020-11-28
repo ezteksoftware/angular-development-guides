@@ -1,1 +1,1 @@
-# angular-guides
+# Angular development guides
